@@ -2,7 +2,7 @@
 published: true
 layout: homepage
 weight: 0
-title: Design With FontForge
+title: Font Development Best Practices
 ---
 
 <!--
