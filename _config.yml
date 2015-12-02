@@ -4,7 +4,7 @@ redcarpet:
 pygments: false
 permalink: none
 exclude: ["en-US/images/precompressed/", "node_modules", "Gruntfile.js", "package.json"]
-url: http://designwithfontforge.com
+url: http://nrsiward.github.io/fontdevbestpractices
 title: Design With FontForge
 title_zh-CN: FontForge 与字体设计
 title_zh-TW: FontForge 與字體設計
