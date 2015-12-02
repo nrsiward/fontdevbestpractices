@@ -5,12 +5,6 @@ weight: 0
 title: Font Development Best Practices
 ---
 
-<!--
-<div style="background: white; width: 100%; text-align:center; padding:1em">
-<img src="images/2013-02-18_love.png" width="400px" alt="Praise on Twitter">
-</div>
--->
-
 <ol class="rectangle-list">
   {% assign pageList = site.pages | sort: 'weight' %}
   {% for p in pageList %}
