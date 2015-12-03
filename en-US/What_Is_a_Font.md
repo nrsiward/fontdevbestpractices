@@ -6,6 +6,8 @@ category: Before You Begin
 title: What Is A Font?
 ---
 
+**This page is retained from *Designing With FontForge* as an example of a complex page.**
+
 &mdash; What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
 
 The single biggest issue that makes type design different is the need for every glyph in the
