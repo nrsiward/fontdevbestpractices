@@ -723,16 +723,3 @@ ol.rectangle-list a:hover:after{
 th, td {
   padding: 0.5em;
 }
-div.lang{
-  margin-top: 10px;
-  margin-bottom: -4px;
-}
-div.ebook {
-  margin-bottom: 40px;
-}
-div.lang, a.lang, div.ebook, a.ebook{
-  color: #fff;
-}
-a.lang:hover, a.ebook:hover{
-  color: #9ddcff;
-}
