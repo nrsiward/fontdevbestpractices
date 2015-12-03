@@ -1,2 +1,2 @@
 # fontdevbestpractices
-font development best practices document
+Font Development Best Practices documentation
