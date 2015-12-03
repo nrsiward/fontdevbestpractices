@@ -8,3 +8,4 @@
 | 200    | Glyph Metadata                             |
 | 300    | Glyph Construction                         |
 | 400    | Shaping and Rendering                      |
+| 500    | Optimization                               |
