@@ -13,4 +13,4 @@ If you wish to help us, you can contribute to this documentation [on GitHub].
 
 *&mdash; The Font Development Best Practice Contributors*
 
-[on GitHub]: https://github.com/nrsiward/fontdevbestpractices/tree/gh-pages
+[on GitHub]: {{site.repourl}}
